@@ -1,2 +1,2 @@
-# eve
-Eve Online how-to
+# Eve Online how-to
+
