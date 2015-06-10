@@ -1,2 +1,0 @@
-# Eve Online how-to
-
